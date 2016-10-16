@@ -1,0 +1,61 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/* Socks's Styles */
+
+.socks-advice {
+	font-family: Arial,Helvetica,sans-serif;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 50px;
+}
+
+
+.socks-advice a {
+	text-decoration: none;
+	color: #FF8200;
+	border: 1px solid #FF8200;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.socks-advice a:hover {
+	text-decoration: none;
+	color: #58595B;
+}
+
+.socks-advice h1 {
+	color: #8C66FF;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 2.5em;
+}
+
+.socks-advice h4 {
+	color: #FF8200;
+	font-family: Arial,Helvetica,sans-serif;
+}
+
+.socks-advice p {
+	font-family: Arial,Helvetica,sans-serif;
+	color: #FFFF9D;
+}
+
+.socks-advice span {
+	font-weight: bold;
+}
+
+.socks-advice .advice {
+	padding: 0px 50px 0px 50px;
+
+}
+
+.socks-advice ul li {
+	list-style: none;
+	padding-bottom: 20px;
+}
+
+.socks-advice footer {
+	font-size: 12px;
+	border-top: 1px solid #58595B;
+}
+
+/* End Socks's Styles */
